@@ -18,6 +18,9 @@ gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
 
 gem 'pry'
+
+
+gem 'graphql'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
